@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="hello" type="world.py" name="world_node" output="screen">
+    </node>
+</launch>
+
